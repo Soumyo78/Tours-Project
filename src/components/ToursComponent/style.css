@@ -1,0 +1,13 @@
+.tours-section-container, .title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.underline{
+    width: 60px;
+    height: 0;
+    border: 2px solid blue;
+    margin: 3px;
+    display:inline-block;
+}
